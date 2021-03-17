@@ -1,0 +1,14 @@
+/* ==================================
+      LOGO_HEDAING
+================================== */
+.logo_heading {
+  font-family: DINPro;
+  font-size: 18.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  text-transform: capitalize;
+  color: #444444;
+}

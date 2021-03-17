@@ -1,0 +1,42 @@
+/* ==================================
+      GENERAL CLASSES
+================================== */
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  box-sizing: border-box;
+   /* font-family: DINPro; */
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.padding {
+  padding: 22px 0;
+}
+
+.grid-col-2 {
+display: grid;
+grid-template-columns:repeat(2,1fr );
+grid-gap:35px;
+}
+
+.flex {
+  display: flex;
+  justify-content: flex-start;
+  align-items:center;
+}
+.flex-col-2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 14px;
+  align-items: center;
+  
+}
